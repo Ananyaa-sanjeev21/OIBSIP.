@@ -1,0 +1,3 @@
+In this code, a random number between the specified lower and upper bounds is generated, and the user has to guess the correct number. 
+The program provides feedback on whether the guessed number is too low or too high, and it continues until the user guesses the correct number.
+The number of attempts is also tracked and displayed at the end.
